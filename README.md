@@ -14,9 +14,9 @@
 ---
 
 ## Compétences Techniques 🛠️
-
-- **Front-end :** HTML, CSS, Angular  
-- **Back-end :** PHP, Java (Spring Boot)  
+- **Langages de programmation :** Python, Java, C, C#, JavaScript
+- **Front-end :** HTML, CSS, JavaScript.  
+- **Back-end :** PHP, Java (Spring Boot), Python, C, C#.
 - **Bases de données :** MySQL  
 - **Outils et plateformes :** Git, GitHub  
 - **Design :** Figma, Adobe Illustrator, Adobe Photoshop
