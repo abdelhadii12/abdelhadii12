@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub 👋
 
-<!--
-**abdelhadii12/abdelhadii12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Je m'appelle Abdelhadi Alioui**, étudiant en **développement full stack** à l'IPI Lyon, titulaire d'un DEUST en Mathématiques, Informatique et Physique de la FST. À 20 ans, je suis activement à la recherche d'un **stage d'une durée minimale de 2 mois** pour enrichir mes compétences en environnement professionnel, avec l’ambition de poursuivre en alternance l'année prochaine.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Ce que je peux apporter :
+
+- **Expertise Technique :** Solide maîtrise du développement front-end et back-end, des bases de données, et des outils de versionnement.
+- **Créativité et Design :** Expérience en design graphique pour des interfaces modernes et engageantes, avec une expertise sur Figma.
+- **Adaptabilité et Apprentissage Rapide :** Passionné par les nouvelles technologies, je m’adapte facilement aux outils et aux besoins de chaque projet.
+
+---
+
+## Compétences Techniques 🛠️
+
+- **Front-end :** HTML, CSS, Angular  
+- **Back-end :** PHP, Java (Spring Boot)  
+- **Bases de données :** MySQL  
+- **Outils et plateformes :** Git, GitHub  
+- **Design :** Figma, Adobe Illustrator, Adobe Photoshop
+
+---
+
+### 💼 Pourquoi me choisir ?
+
+Avec une approche proactive et orientée solutions, je suis prêt à m'investir dans un environnement de travail dynamique et stimulant. Mon objectif est d’appliquer mes connaissances tout en apportant une réelle valeur ajoutée à votre entreprise.
+
+📬 **Contactez-moi :** abdelhadialioui2003@gmail.com
+
+✨ **Explorons ensemble des opportunités de collaboration !**
