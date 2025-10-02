@@ -1,6 +1,6 @@
 # Abdelhadi's GitHub 👋
 
-**Je m'appelle Abdelhadi Alioui**, étudiant en **développement full stack** à l'IPI Lyon, titulaire d'un DEUST en Mathématiques, Informatique et Physique de la FST. À 19 ans, je suis activement à la recherche d'un **stage d'une durée minimale de 2 mois** pour enrichir mes compétences en environnement professionnel, avec l’ambition de poursuivre en alternance l'année prochaine.
+**Je m'appelle Abdelhadi Alioui**, étudiant en **développement full stack** à l'IPI Lyon, titulaire d'un DEUST en Mathématiques, Informatique et Physique de la FST. À 21 ans, je suis activement à la recherche d'un **stage d'une durée minimale de 2 mois** pour enrichir mes compétences en environnement professionnel, avec l’ambition de poursuivre en alternance l'année prochaine.
 
 ---
 ![Bannière](https://github.com/abdelhadii12/abdelhadii12/blob/main/banner-abdelhadi---github.png?raw=true)
