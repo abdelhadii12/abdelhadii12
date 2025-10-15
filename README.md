@@ -14,10 +14,10 @@
 ---
 
 ## Compétences Techniques 🛠️
-- **Langages de programmation :** Python, Java, C, C#, JavaScript
-- **Front-end :** HTML, CSS, JavaScript.  
-- **Back-end :** PHP, Java (Spring Boot), Python, C, C#.
-- **Bases de données :** MySQL  
+- **Langages de programmation :** Java, C, C#, JavaScript
+- **Front-end :** HTML, CSS, JavaScript, Angular Framework.  
+- **Back-end :** Java (Spring Boot), C#, PHP.
+- **Bases de données :** MySQL, MongoDB  
 - **Outils et plateformes :** Git, GitHub  
 - **Design :** Figma, Adobe Illustrator, Adobe Photoshop
 
